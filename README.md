@@ -2,11 +2,18 @@
 
 ## Description
 
-Jigsaw is...
+Jigsaw is a block-based, visual programming language designed to help beginners learn 
+the fundamentals of programming, and hone their programmatic thinking in a fun and 
+interactive way.
+
+Users can create simple scripts through the code editor by arranging and connecting 
+blocks together, run their scripts at the press of a button and see the results in 
+the console.
+
 
 ### Background
 
-In this project...
+Jigsaw is heavily inspired by the [Scratch programming language](https://scratch.mit.edu/).
 
 ### Structure
 
@@ -30,13 +37,19 @@ PUT A SCREEN RECORDING OF A RUN THROUGH OF THE SITE HERE
 
 ### Card wall
 
-We developed this project with an **agile** workflow, working in x sprints and using  
-a Trello board to track our tasks and help plan sprints.
+We developed this project with an **agile** workflow, working in two-day sprints 
+over a period of two weeks.
+
+We used a Trello board to track our tasks, and help plan sprints.
 
 Link to our Trello board:
 
 
+
 ## Installation
+
+
+
 
 ## Authors and acknowledgment
 
@@ -47,7 +60,7 @@ This project was created by:
 [Alister Ko](https://github.com/alistershko)  
 [Etienne Le Goater](https://github.com/Elegoater)  
 [Benjamin Loveday](https://github.com/StrawberryScot)  
-[Emily Sadler](https://github.com/EmiSadler)
+[Emily Sadler](https://github.com/EmiSadler)  
 [Louis Tse](https://github.com/Louistwt)
 
 
