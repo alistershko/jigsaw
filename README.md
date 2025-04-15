@@ -37,6 +37,25 @@ Link to our Trello board:
 
 
 ## Installation
+## Prerequisites
+
+Before running the project, ensure you have the following installed:
+
+- [Node.js](https://nodejs.org/) (v14 or later)
+- [npm](https://www.npmjs.com/) (comes with Node.js)
+
+## Installation
+
+Install dependencies:
+```bash  
+npm install
+```
+To start the development server and test the project:
+```bash
+npm start
+```
+This will launch the application in your default browser.
+
 
 ## Authors and acknowledgment
 
